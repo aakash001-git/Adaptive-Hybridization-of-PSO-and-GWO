@@ -6,5 +6,4 @@ We have used 7 standard benchmark functions to evaluate the performance of this 
 PLOT.py file plots the graph of all three optimization algorithms' performance with " optimum value vs iterations " benchmark.py file consist of 7 benchmark's function which can be used to evaluate/compare all three algorithms.
 # How to Use:
 open PLOT.py file and set the value of variable " function_to_be_used " from F1 to F7 representing the 7 unimodal and multiomodal benchmark function.
-
 run PLOT.py file. Use command - python PLOT.py
