@@ -5,7 +5,7 @@ The main idea is to balance the exploration and exploitation ability of Particle
 
 We have used 7 standard benchmark functions to evaluate the performance of this AHPSOGWO. The results show that AHPSOGWO is significantly better than the original GWO and PSO. The AHPSOGWO improved the global optimum value in some of the functions, while in all the others, it reached the global optimum value in fewer iterations escaping multiple local minima than the original PSO and GWO.
 # Components
-PLOT.py file plots the graph of all three optimization algorithms' performance with " optimum value vs iterations " benchmark.py file consist of 7 benchmark's function which can be used to evaluate/compare all three algorithms.
+PLOT.py file plots the graph of all three optimization algorithms' performance with " optimum value vs iterations " benchmarks.py file consist of 7 benchmark's function which can be used to evaluate/compare all three algorithms.
 # How to Use:
 open PLOT.py file and set the value of variable " function_to_be_used " from F1 to F7 representing the 7 unimodal and multiomodal benchmark function.  
 run PLOT.py file. Use command - python PLOT.py
